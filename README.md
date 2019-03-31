@@ -18,3 +18,5 @@ To submit your solution to the exercise, please do the following things:
 4. Commit your solution
 5. Push your branch onto the server
 6. Check if the solution is ok (by checking whether the green checkmark appears). If not: Go back to 3.
+
+Please submit your exercise until April 15. If there are issues with the submission procedure, write an me an [email](mailto:nils.reiter@ims.uni-stuttgart.de).
