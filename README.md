@@ -10,3 +10,11 @@ If the argument value is below zero, the function should raise an exception (thi
 
 ## Submission
 
+To submit your solution to the exercise, please do the following things:
+
+1. Clone this repository on your local machine
+2. Create a new branch, and name it after yourself
+3. Implement the solution
+4. Commit your solution
+5. Push your branch onto the server
+6. Check if the solution is ok (by checking whether the green checkmark appears). If not: Go back to 3.
