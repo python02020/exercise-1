@@ -1,3 +1,3 @@
 def makeString(x):
-    return "hallo"
+    return "hallo Welt"
     
